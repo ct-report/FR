@@ -7,7 +7,21 @@ Until now, the French government keeps on supporting the usage of such a central
 
 On May 12th SDK sources for ROBERT implementation have been released on Gitlab by INRIA.
 
+Android/iOS + SDK/Server sources | https://gitlab.inria.fr/stopcovid19
+---------------------------------|------------------------------------
 Protocol Documentation | https://github.com/ROBERT-proximity-tracing
------------------------|--------------------------------------------
-Android/iOS SDK sources | https://gitlab.inria.fr/stopcovid19
 Based on PEPP-PT | https://github.com/ct-report/PEPP-PT
+
+- APKLAB Analysis
+
+Build | Link
+------|-----
+0.9.17 #22 Release | https://apklab.io/apk.html?hash=c730c4fd1faedde1aae8fcbb9942d55cc55c824be8bf83b9c8d75c713036db55
+0.9.17 #22 Debug | https://apklab.io/apk.html?hash=93ac8ec4c0abb2fde852c68b75a4a4a66360efddc5a9b79fa5fc640310d97ac0
+
+- JoeSandbox Report
+
+Build | Link
+------|-----
+0.9.17 #22 Release | https://www.joesandbox.com/analysis/233048/0/html
+0.9.17 #22 Debug | https://www.joesandbox.com/analysis/233053/0/html
