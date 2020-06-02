@@ -5,6 +5,8 @@ Contact Tracing - France
 
 Until now, the French government keeps on supporting the usage of such a centralized model, unlike other countries, which have changed their programs (for instance Germany and Italy) by withdrawing from PEPP-PT & switching to decentralized solutions.
 
+**On June 2nd StopCovid France has been officially published on the Google Play Store.**
+
 Play Store | https://play.google.com/store/apps/details?id=fr.gouv.android.stopcovid
 -----------|------------------------------------------------------------------------
 Android/iOS + SDK/Server sources | https://gitlab.inria.fr/stopcovid19
