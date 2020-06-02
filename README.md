@@ -1,15 +1,18 @@
 # FR
 Contact Tracing - France
 
-**STOPCOVID** in development by INRIA. Centralized solution - based on PEPP-PT protocol (ROBERT implementation). 
+**STOPCOVID FRANCE** in development by INRIA. Centralized solution - based on PEPP-PT protocol (ROBERT implementation). 
 
 Until now, the French government keeps on supporting the usage of such a centralized model, unlike other countries, which have changed their programs (for instance Germany and Italy) by withdrawing from PEPP-PT & switching to decentralized solutions.
 
+Play Store | https://play.google.com/store/apps/details?id=fr.gouv.android.stopcovid
+-----------|------------------------------------------------------------------------
 Android/iOS + SDK/Server sources | https://gitlab.inria.fr/stopcovid19
----------------------------------|------------------------------------
 Protocol Documentation | https://github.com/ROBERT-proximity-tracing
 Based on PEPP-PT | https://github.com/ct-report/PEPP-PT
 References | https://www.inria.fr/fr/le-projet-stopcovid
+Website | https://bonjour.stopcovid.gouv.fr/
+Website | https://www.economie.gouv.fr/stopcovid
 
 - APKLAB Analysis
 
