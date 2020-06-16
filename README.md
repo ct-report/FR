@@ -20,6 +20,7 @@ Website | https://www.economie.gouv.fr/stopcovid
 
 Build | Link
 ------|-----
+1.0.1 #32 Play Store | https://apklab.io/apk.html?hash=8c19ee79afc9274947d33939fee8b84b091fa824ddf83979b782adfb89fc9843
 1.0.0 #29 Play Store | https://apklab.io/apk.html?hash=9ca00985b97fd5b6ae2856efb8ddca4fb30513a2b308afbb1b293c77965959a3
 0.9.17 #22 Release | https://apklab.io/apk.html?hash=c730c4fd1faedde1aae8fcbb9942d55cc55c824be8bf83b9c8d75c713036db55
 0.9.17 #22 Debug | https://apklab.io/apk.html?hash=93ac8ec4c0abb2fde852c68b75a4a4a66360efddc5a9b79fa5fc640310d97ac0
@@ -28,6 +29,7 @@ Build | Link
 
 Build | Link
 ------|-----
+1.0.1 #32 Play Store | https://www.joesandbox.com/analysis/238851/0/html
 1.0.0 #29 Play Store | https://www.joesandbox.com/analysis/235020/0/html
 0.9.17 #22 Release | https://www.joesandbox.com/analysis/233048/0/html
 0.9.17 #22 Debug | https://www.joesandbox.com/analysis/233053/0/html
